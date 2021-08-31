@@ -1,8 +1,8 @@
-# InhaFaceChallenge
+# Inha Face Challenge
 
-2021.08 Inha Face Verification Challenge 
+### 2021.08 Inha Face Verification Challenge 
 
-won 3rd place 
+🙌 won 3rd place 
 
 [link](https://dacon.io/competitions/official/235802/overview/description)
 
